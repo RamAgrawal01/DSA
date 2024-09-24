@@ -26,7 +26,7 @@ int findMaxProfit(vector<int>&arr ){
 }
 
 int main(){
-    vector<int>arr{7,1,5,3,6,4};
+    vector<int>arr{8,2,6,8,3,2,7,8,9,7,6,51,6,8,9};
     int ans = findMaxProfit(arr);
     cout<<ans;
 }

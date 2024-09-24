@@ -42,7 +42,7 @@ string numberToWords(int n){
 
 
 int main(){
-    int num = 123456;
+    int num = 76817;
     string ans = numberToWords(num);
     cout<<ans;
 
